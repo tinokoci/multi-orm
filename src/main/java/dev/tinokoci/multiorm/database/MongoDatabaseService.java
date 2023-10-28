@@ -1,10 +1,5 @@
 package dev.tinokoci.multiorm.database;
 
-public class MongoDatabaseService implements DatabaseService {
+public class MongoDatabaseService {
 
-    @Override
-    public <T> boolean save(T entity) {
-
-        return false;
-    }
 }
