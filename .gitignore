@@ -1,0 +1,7 @@
+# Ignore all of .idea except for codeStyles/Project.xml
+.idea/
+!.idea/codeStyles/Project.xml
+
+# Other folders to ignore
+build/
+.gradle/
